@@ -1,0 +1,994 @@
+[
+  {
+    "id": 0.8409559505970552,
+    "admin": "sajt",
+    "hasStarted": false,
+    "requests": [],
+    "joinedUsers": [
+      {
+        "id": 0.7633336864280664,
+        "name": "sajt"
+      }
+    ],
+    "players": [],
+    "unusedCards": [],
+    "communityCards": [],
+    "usedCards": [],
+    "logs": []
+  },
+  {
+    "id": 0.11863187842477596,
+    "admin": "sajt",
+    "hasStarted": false,
+    "requests": [],
+    "joinedUsers": [
+      {
+        "id": 0.7633336864280664,
+        "name": "sajt"
+      }
+    ],
+    "players": [],
+    "unusedCards": [],
+    "communityCards": [],
+    "usedCards": [],
+    "logs": []
+  },
+  {
+    "id": 0.3182230705301572,
+    "admin": "sajt",
+    "hasStarted": false,
+    "requests": [],
+    "joinedUsers": [
+      {
+        "id": 0.7633336864280664,
+        "name": "sajt"
+      }
+    ],
+    "players": [],
+    "unusedCards": [],
+    "communityCards": [],
+    "usedCards": [],
+    "logs": []
+  },
+  {
+    "id": 0.06219092046763253,
+    "admin": "sajt",
+    "hasStarted": false,
+    "requests": [
+      {
+        "id": 0.02463577958287999,
+        "name": "korte"
+      },
+      {
+        "id": 0.616371434614335,
+        "name": "barack"
+      },
+      {
+        "id": 0.6019604213622258,
+        "name": "zeller"
+      }
+    ],
+    "joinedUsers": [
+      {
+        "id": 0.7633336864280664,
+        "name": "sajt"
+      }
+    ],
+    "players": [],
+    "unusedCards": [],
+    "communityCards": [],
+    "usedCards": [],
+    "logs": []
+  },
+  {
+    "id": 0.7076677692898268,
+    "admin": "zeller",
+    "hasStarted": false,
+    "requests": [],
+    "joinedUsers": [
+      {
+        "id": 0.6019604213622258,
+        "name": "zeller"
+      }
+    ],
+    "players": [],
+    "unusedCards": [],
+    "communityCards": [],
+    "usedCards": [],
+    "logs": []
+  },
+  {
+    "id": 0.1608251169424295,
+    "admin": "sajt",
+    "hasStarted": false,
+    "requests": [],
+    "joinedUsers": [],
+    "players": [],
+    "unusedCards": [],
+    "communityCards": [],
+    "usedCards": [],
+    "logs": []
+  },
+  {
+    "id": 0.1962977267153143,
+    "admin": "sajt",
+    "hasStarted": false,
+    "requests": [],
+    "joinedUsers": [],
+    "players": [],
+    "unusedCards": [],
+    "communityCards": [],
+    "usedCards": [],
+    "logs": []
+  },
+  {
+    "id": 0.4319553924722874,
+    "admin": "sajt",
+    "hasStarted": false,
+    "requests": [
+      {
+        "id": 0.616371434614335,
+        "name": "barack"
+      }
+    ],
+    "joinedUsers": [
+      {
+        "id": 0.7633336864280664,
+        "name": "sajt"
+      }
+    ],
+    "players": [],
+    "unusedCards": [],
+    "communityCards": [],
+    "usedCards": [],
+    "logs": []
+  },
+  {
+    "id": 0.2695378185388928,
+    "admin": "barack",
+    "hasStarted": false,
+    "requests": [],
+    "joinedUsers": [
+      {
+        "id": 0.616371434614335,
+        "name": "barack"
+      }
+    ],
+    "players": [],
+    "unusedCards": [],
+    "communityCards": [],
+    "usedCards": [],
+    "logs": []
+  },
+  {
+    "id": 0.02757730177033113,
+    "admin": "sajt",
+    "hasStarted": false,
+    "requests": [],
+    "joinedUsers": [
+      {
+        "id": 0.7633336864280664,
+        "name": "sajt"
+      }
+    ],
+    "players": [],
+    "unusedCards": [],
+    "communityCards": [],
+    "usedCards": [],
+    "logs": []
+  },
+  {
+    "id": 0.8671431094154962,
+    "admin": "sajt",
+    "hasStarted": true,
+    "requests": [],
+    "joinedUsers": [],
+    "players": [
+      {
+        "name": "sajt",
+        "role": {
+          "name": "Sheriff",
+          "imgUrl": ""
+        },
+        "isRevealed": true,
+        "character": {
+          "name": "Sid Ketchum",
+          "imgUrl": "",
+          "description": "",
+          "life": 4
+        },
+        "life": 5,
+        "cardsInHand": [
+          {
+            "title": "Párbaj",
+            "imgUrl": "duelUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "T",
+              "sign": "pikk"
+            }
+          },
+          {
+            "title": "Schofield (2)",
+            "imgUrl": "schofieldUrl",
+            "isInstant": false,
+            "signature": {
+              "number": "7",
+              "sign": "pikk"
+            }
+          },
+          {
+            "title": "Winchester (5)",
+            "imgUrl": "vulcanicUrl",
+            "isInstant": false,
+            "signature": {
+              "number": "3",
+              "sign": "treff"
+            }
+          },
+          {
+            "title": "Gyorstüzelő (1)",
+            "imgUrl": "vulcanicUrl",
+            "isInstant": false,
+            "signature": {
+              "number": "A",
+              "sign": "káró"
+            }
+          },
+          {
+            "title": "Nem talált!",
+            "imgUrl": "missedUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "4",
+              "sign": "kőr"
+            }
+          }
+        ],
+        "inventoryCards": [],
+        "playedCards": [],
+        "isActive": true
+      },
+      {
+        "name": "zeller",
+        "role": {
+          "name": "Renegade",
+          "imgUrl": ""
+        },
+        "isRevealed": false,
+        "character": {
+          "name": "Suzy Lafayette",
+          "imgUrl": "",
+          "description": "",
+          "life": 4
+        },
+        "life": 4,
+        "cardsInHand": [
+          {
+            "title": "Bang",
+            "imgUrl": "pistolUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "8",
+              "sign": "treff"
+            }
+          },
+          {
+            "title": "Postakocsi",
+            "imgUrl": "cartUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "J",
+              "sign": "treff"
+            }
+          },
+          {
+            "title": "Nem talált!",
+            "imgUrl": "missedUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "T",
+              "sign": "káró"
+            }
+          },
+          {
+            "title": "Schofield (2)",
+            "imgUrl": "schofieldUrl",
+            "isInstant": false,
+            "signature": {
+              "number": "T",
+              "sign": "kőr"
+            }
+          }
+        ],
+        "inventoryCards": [],
+        "playedCards": [],
+        "isActive": false
+      },
+      {
+        "name": "barack",
+        "role": {
+          "name": "Bandit",
+          "imgUrl": ""
+        },
+        "isRevealed": false,
+        "character": {
+          "name": "Slab the Killer",
+          "imgUrl": "",
+          "description": "",
+          "life": 4
+        },
+        "life": 4,
+        "cardsInHand": [
+          {
+            "title": "Bang",
+            "imgUrl": "pistolUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "3",
+              "sign": "pikk"
+            }
+          },
+          {
+            "title": "Wells Fargo",
+            "imgUrl": "wellsUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "7",
+              "sign": "kőr"
+            }
+          },
+          {
+            "title": "Bang",
+            "imgUrl": "pistolUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "2",
+              "sign": "kőr"
+            }
+          },
+          {
+            "title": "Gépkarabély (4)",
+            "imgUrl": "gunUrl",
+            "isInstant": false,
+            "signature": {
+              "number": "5",
+              "sign": "treff"
+            }
+          }
+        ],
+        "inventoryCards": [],
+        "playedCards": [],
+        "isActive": false
+      },
+      {
+        "name": "korte",
+        "role": {
+          "name": "Bandit",
+          "imgUrl": ""
+        },
+        "isRevealed": false,
+        "character": {
+          "name": "Pedro Ramirez",
+          "imgUrl": "",
+          "description": "",
+          "life": 4
+        },
+        "life": 4,
+        "cardsInHand": [
+          {
+            "title": "Nem talált!",
+            "imgUrl": "missedUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "4",
+              "sign": "treff"
+            }
+          },
+          {
+            "title": "Bang",
+            "imgUrl": "pistolUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "J",
+              "sign": "káró"
+            }
+          },
+          {
+            "title": "Nem talált!",
+            "imgUrl": "missedUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "4",
+              "sign": "treff"
+            }
+          },
+          {
+            "title": "Bang",
+            "imgUrl": "pistolUrl",
+            "isInstant": true,
+            "signature": {
+              "number": "A",
+              "sign": "treff"
+            }
+          }
+        ],
+        "inventoryCards": [],
+        "playedCards": [],
+        "isActive": false
+      }
+    ],
+    "unusedCards": [
+      {
+        "title": "Hordó",
+        "imgUrl": "barrelUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "5",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "2",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Sör",
+        "imgUrl": "beerUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "Q",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Sör",
+        "imgUrl": "beerUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "3",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "4",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Párbaj",
+        "imgUrl": "duelUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "K",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "A",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "4",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "4",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Nem talált!",
+        "imgUrl": "missedUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "3",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Börtön",
+        "imgUrl": "prisonUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "9",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "2",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Gyorstüzelő (1)",
+        "imgUrl": "vulcanicUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "6",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "5",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Cat Balou",
+        "imgUrl": "catBalouUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "6",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Nem talált!",
+        "imgUrl": "missedUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "9",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Sör",
+        "imgUrl": "beerUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "2",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Nem talált!",
+        "imgUrl": "missedUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "K",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Nem talált!",
+        "imgUrl": "missedUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "5",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Musztáng",
+        "imgUrl": "mustangUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "7",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "8",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Musztáng",
+        "imgUrl": "mustangUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "6",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Sör",
+        "imgUrl": "beerUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "4",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Kocsma",
+        "imgUrl": "pubUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "6",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Távcső",
+        "imgUrl": "telescopeUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "3",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Nem talált!",
+        "imgUrl": "missedUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "J",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Schofield (2)",
+        "imgUrl": "schofieldUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "J",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Nem talált!",
+        "imgUrl": "missedUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "8",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "7",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Postakocsi",
+        "imgUrl": "cartUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "8",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Börtön",
+        "imgUrl": "prisonUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "K",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "7",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "5",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "K",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Gatling",
+        "imgUrl": "gatlingUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "6",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "5",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Pánik!",
+        "imgUrl": "panicUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "8",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "9",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Szatócsbolt",
+        "imgUrl": "storeUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "T",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "3",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Sör",
+        "imgUrl": "beerUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "7",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Szatócsbolt",
+        "imgUrl": "storeUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "9",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "8",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Pánik!",
+        "imgUrl": "panicUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "3",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Cat Balou",
+        "imgUrl": "catBalouUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "2",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Nem talált!",
+        "imgUrl": "missedUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "6",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Sör",
+        "imgUrl": "beerUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "Q",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Párbaj",
+        "imgUrl": "duelUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "A",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "8",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Pánik!",
+        "imgUrl": "panicUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "2",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Cat Balou",
+        "imgUrl": "catBalouUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "7",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Pánik!",
+        "imgUrl": "panicUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "5",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "2",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Hordó",
+        "imgUrl": "barrelUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "6",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Nem talált!",
+        "imgUrl": "missedUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "8",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Cat Balou",
+        "imgUrl": "catBalouUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "Q",
+          "sign": "treff"
+        }
+      },
+      {
+        "title": "Börtön",
+        "imgUrl": "prisonUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "2",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "7",
+          "sign": "káró"
+        }
+      },
+      {
+        "title": "Dinamit",
+        "imgUrl": "dynamiteUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "5",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Bang",
+        "imgUrl": "pistolUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "4",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Indiánok!",
+        "imgUrl": "indiansUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "Q",
+          "sign": "pikk"
+        }
+      },
+      {
+        "title": "Remington (3)",
+        "imgUrl": "vulcanicUrl",
+        "isInstant": false,
+        "signature": {
+          "number": "3",
+          "sign": "kőr"
+        }
+      },
+      {
+        "title": "Indiánok!",
+        "imgUrl": "indiansUrl",
+        "isInstant": true,
+        "signature": {
+          "number": "6",
+          "sign": "pikk"
+        }
+      }
+    ],
+    "communityCards": [],
+    "usedCards": [],
+    "logs": []
+  }
+]

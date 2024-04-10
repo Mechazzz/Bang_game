@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0.7633336864280664,
+    "name": "sajt",
+    "password": "$2b$10$.347tvMMRqUPcJC/MIjzr.MLvi52cTUm8U4GvNFiMmD.IWlv/bjNu"
+  },
+  {
+    "id": 0.02463577958287999,
+    "name": "korte",
+    "password": "$2b$10$V06FvGVikYmQcNhm5MLdEOk6Hbz.rtFjbKpowFLn7QHaFHhn2sdIi"
+  },
+  {
+    "id": 0.616371434614335,
+    "name": "barack",
+    "password": "$2b$10$7PZSiyRor6qxH2wT8UQeDeL9L1TIVbCYhkv3yDfeXVjA8HNSMJMea"
+  },
+  {
+    "id": 0.6019604213622258,
+    "name": "zeller",
+    "password": "$2b$10$jMEql47GvhUyRxZP.P/4c.Gt6DaRjxj9iWR1u4Jd2Yl8/2SRSmZNe"
+  }
+]
